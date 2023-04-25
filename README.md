@@ -15,6 +15,11 @@ This project utilizes unsupervised machine learning to predict if cryptocurrenci
 - What is the best value for k when using the PCA data? Answer: 4
 - Does it differ from the best k value found using the original data? Answer: No difference
 - What is the impact of using fewer features to cluster the data using K-Means? Answer: Having fewer features does not necessarily mean greater impact for this comparison.
-
+- Original Elbow
+![8](https://user-images.githubusercontent.com/118948437/234167714-685ed916-9be2-4772-8cda-ccdc8adc36f4.png)
+- PCA Elbow
+![9 pca](https://user-images.githubusercontent.com/118948437/234167914-09db57d6-4e18-46ab-b2ab-2bb513de0ce5.png)
+- Original Scatter
 ![10](https://user-images.githubusercontent.com/118948437/234165688-6b275e2b-00e3-43e7-8ae4-1342c635b17b.png)
+- PCA Scatter
 ![11](https://user-images.githubusercontent.com/118948437/234165699-9224c84f-5c35-4b2c-b35e-c90880fe2061.png)
